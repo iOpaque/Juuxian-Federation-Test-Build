@@ -1,0 +1,10 @@
+[
+	{ "op" : "add"
+	,"path" : "/species/-"
+	,"value" : "juux" },
+	
+	{ "op" : "add",
+	  "path" : "/defaultCodexes/juux",
+	    "value" : [ "protectorate1", "protectorate2" ]
+	}
+]
